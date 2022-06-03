@@ -32,7 +32,7 @@ This project implements an ETL pipeline that extracts data from an S3 bucket in 
 ### Installation
 To clone the git repository:
 ```
-git clone https://github.com/dirklambrechts/Data-Warehouse-with-Redshift
+git clone https://github.com/dirklambrechts/Data-Warehouse-with-AWS-Redshift
 ```
 
 <a name="using"></a>
